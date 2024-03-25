@@ -1,0 +1,16 @@
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\bin\Debug\XAML.exe.config
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\bin\Debug\XAML.exe
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\bin\Debug\XAML.pdb
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\obj\Debug\XAML.csproj.AssemblyReference.cache
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\obj\Debug\MainWindow.g.cs
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\obj\Debug\App.g.cs
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\obj\Debug\XAML_MarkupCompile.cache
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\obj\Debug\XAML_MarkupCompile.lref
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\obj\Debug\MainWindow.baml
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\obj\Debug\XAML.g.resources
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\obj\Debug\XAML.Properties.Resources.resources
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\obj\Debug\XAML.csproj.GenerateResource.cache
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\obj\Debug\XAML.csproj.CoreCompileInputs.cache
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\obj\Debug\XAML.exe
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\obj\Debug\XAML.pdb
+C:\Users\PTS-PC-309_USR02\Desktop\Udemy WPF\XAML\XAML\obj\Debug\App.baml
